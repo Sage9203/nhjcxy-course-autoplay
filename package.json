@@ -1,0 +1,19 @@
+{
+  "name": "nhjcxy-course-autoplay",
+  "version": "1.2.1",
+  "private": true,
+  "description": "南航金城学院海旗课程自动联播（手动开启）",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "check": "node scripts/build.cjs --check",
+    "test": "node --test tests/*.test.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sage9203/nhjcxy-course-autoplay.git"
+  }
+}
