@@ -1,4 +1,6 @@
 # 南航金城学院课程自动联播（手动开启）
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSage9203%2Fnhjcxy-course-autoplay.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSage9203%2Fnhjcxy-course-autoplay?ref=badge_shield)
+
 
 手动开启后，当前视频自然播放结束时，脚本核对平台现有完成记录，再按课程目录进入下一讲并尝试播放，减少逐节切换的操作。
 
@@ -102,3 +104,7 @@ npm test
 ## 许可证
 
 MIT License。
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSage9203%2Fnhjcxy-course-autoplay.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSage9203%2Fnhjcxy-course-autoplay?ref=badge_large)
